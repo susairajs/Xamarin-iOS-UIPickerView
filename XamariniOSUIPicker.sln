@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSUIPicker", "XamariniOSUIPicker\XamariniOSUIPicker.csproj", "{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Release|iPhone.Build.0 = Release|iPhone
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AFDBBD11-8B79-4383-B406-9C3ACEB49ADC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
