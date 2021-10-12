@@ -1,4 +1,6 @@
-# Xamarin-iOS-UIPickerView
+# Working with UIPickerView in Xamarin.iOS
+
+#### Below url will explined the UIPicker in Xamarin.iOS
 
 Blog : https://xamarinmonkeys.blogspot.com/2018/05/uipickerview-in-xamarin-ios.html
 
