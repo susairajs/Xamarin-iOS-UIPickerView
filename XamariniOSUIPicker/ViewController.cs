@@ -10,12 +10,10 @@ namespace XamariniOSUIPicker
 		{
 			// Note: this .ctor should not contain any initialization logic.
 		}
-
+                // County List
 		List<string> Country = new List<string>
 		{
-
-			"America","Australia","Bangladesh","Canada","Colombia","China","Denmark","India"
-		
+                  "America","Australia","Bangladesh","Canada","Colombia","China","Denmark","India"
 		};
 
 		public override void ViewDidLoad()
@@ -28,6 +26,7 @@ namespace XamariniOSUIPicker
 
 			picker.ValueChanged += (sender, e) =>
 			{
+				//Set value to Lable
 				lblValue.Text = picker.SelectedValue;
 			};
 		}
